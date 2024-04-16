@@ -1,0 +1,3 @@
+C:\Users\King Xander\3D Objects\New folder (2)\ProjectOpencv\ProjectOpencv\x64\Debug\ProjectOpencv.vcxproj.AssemblyReference.cache
+C:\Users\King Xander\3D Objects\New folder (2)\ProjectOpencv\ProjectOpencv\x64\Debug\ProjectOpencv.MyForm.resources
+C:\Users\King Xander\3D Objects\New folder (2)\ProjectOpencv\ProjectOpencv\x64\Debug\ProjectOpencv.vcxproj.GenerateResource.cache
